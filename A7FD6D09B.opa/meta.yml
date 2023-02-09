@@ -1,0 +1,37 @@
+id: A7FD6D09B
+title: 'PP: Vajracchedikā Prajñāpāramitā'
+type: translation
+pechas:
+- I4989860C
+- I0D776F1E
+- I17AA7174
+- I62163181
+- I71E419A5
+- I07341014
+- I2E100092
+- I337CB8FB
+- I83793BAC
+- I2D9933D4
+- I0A808882
+source_metadata:
+  languages:
+  - en
+  - mon
+  - bo
+  - zh
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-09 14:54:22.906724
+  last_modified_at: 2023-02-09 14:54:22.906749
+alignment_to_base:
+  I4989860C/388C: 4BE6
+  I0D776F1E/0B56: 4BE6
+  I17AA7174/A74E: 4BE6
+  I62163181/601B: 4BE6
+  I71E419A5/2505: 4BE6
+  I07341014/2DE0: 4BE6
+  I2E100092/F67C: 4BE6
+  I337CB8FB/3903: 4BE6
+  I83793BAC/14B4: 4BE6
+  I2D9933D4/8BD3: 4BE6
+  I0A808882/D4D1: 4BE6
